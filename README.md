@@ -1,7 +1,8 @@
 ## Hi there! My name is Marine! <img src="https://cdn-icons-gif.flaticon.com/6416/6416338.gif" title="wave" width="40" height="40"/>
 
 ### Обо мне/About myself
-My portfolio showcasing practical testing skills through detailed bug reports, test cases, and plans. Besides, it demonstrates proficiency in test automation and API testing with Postman. Portfolio includes examples of functional, non-functional, API and exploratory testing across web and mobile applications, reflecting a strong understanding of SDLC and Agile methodologies.
+Мое портфолио демонстрирует практические навыки тестирования через подробные отчеты о багах, тест-кейсы, чеклисты и планы. Кроме того, здесь вы можете удостовериться в моих навыках тестирования API и автоматизации данного процесса с Postman. Портфолио включает примеры функционального, нефункционального, API и исследовательского тестирования для веб и мобильных приложений, отражая глубокое понимание жизненного цикла разработки программного обеспечения (SDLC) и методологий Agile./
+My portfolio showcasing practical testing skills through detailed bug reports, test cases, checklists and test plans. Besides, it demonstrates proficiency in test automation and API testing with Postman. Portfolio includes examples of functional, non-functional, API and exploratory testing across web and mobile applications, reflecting a strong understanding of SDLC and Agile methodologies.
 
 ### Вы можете связаться со мной посредством.../You can connect with me through... <img src="https://cdn-icons-gif.flaticon.com/6172/6172532.gif" title="wave" width="40" height="40"/>
  <div id="badges">
@@ -25,18 +26,25 @@ My portfolio showcasing practical testing skills through detailed bug reports, t
 ### Для работы с кодом/Working with code
 <img src="https://camo.githubusercontent.com/5c044fed6aa08eec970838d36070af4a8309cafe189cad03f34fbac32f7abf08/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f342f34622f426173685f4c6f676f5f436f6c6f7265642e7376672f3130323470782d426173685f4c6f676f5f436f6c6f7265642e7376672e706e673f3230313830373233303534333530" title="Bash" width="40" height="40"/><img src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" title="Git" width="40" height="40"/><img src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" title="VSCode" width="40" height="40"/>
 
-## My certificates <img src="https://cdn-icons-gif.flaticon.com/12035/12035152.gif" title="wave" width="40" height="40"/>
+## Мои сертификаты/My certificates <img src="https://cdn-icons-gif.flaticon.com/12035/12035152.gif" title="wave" width="40" height="40"/>
 1. [Введение в SQL/Introduction to SQL](https://stepik.org/cert/2720926);
 2. [Погружение в JavaScript: для начинающих/Immersion into JavaScript: for beginners](https://stepik.org/cert/2802103);
 3. [Тестирование ПО: Postman для тестирования API/Software Testing: Postman for API testing](https://stepik.org/cert/2881932);
 4. [Брокеры сообщений. Apache Kafka/Messages' brokers. Apache Kafka](https://stepik.org/cert/2882758);
 5. [Интерактивный тренажер по SQL/Interactive SQL trainer](https://stepik.org/cert/2893185).
 
-## Test artifacts
-* [Использование различных техник тест-дизайна для написания тестов для интернет-магазина/Using various test design techniques to write tests for a store](https://github.com/IMV227/design)
-* [Примеры чек-листов и тест-кейсов для интернет-магазина/Examples of checklists and test cases for a store](https://github.com/IMV227/docs)
+## Тестовые артефакты/Test artifacts
+* [Тест дизайн](https://github.com/IMV227/design)
+<br/><i>Использование различных техник тест-дизайна для написания тестов для интернет-магазина/Using various test design techniques to write tests for a store</i>
+* [Тестовая документация](https://github.com/IMV227/docs)
+<br/><i>Примеры чек-листов и тест-кейсов для интернет-магазина/Examples of checklists and test cases for a store</i>
 * [Тестирование веб приложений/Web app testing](https://github.com/IMV227/web)
+<br/><i>Тест план, чек-листы, тест кейсы, отчеты о дефектах, демонстрация перехвата запроса и различные манипуляции с запросом и ответом.</i>
 * [Работа с базами данных/Working with databases](https://github.com/IMV227/database-)
+<br/><i>Примеры запросов к СУБД на SQL, а также MongoDB для интернет-магазина</i>
 * [Тестирование API/API testing](https://github.com/IMV227/api)
+<br/><i>Демонстрация коллеции в Postman, а также тест-кейсов для тестирования API</i>
 * [Тестирование мобильных приложений/Mobile app testing](https://github.com/IMV227/mobile)
+<br/><i>Чек-листы и тест-кейсы для мобильного приложения для контроля задач, а также отчеты о дефектах, демонстрация перехвата трафика, различные манипуляции с запросом и ответом</i>
 * [Работа с bash и git/Working with bash and git](https://github.com/IMV227/git_bash)
+<br/><i>Демонстрация применения различных команд на Bash для создания файлов и директорий, заоплнение файлов информацией, поиск данных, чтение файлов и т.д.</i>
