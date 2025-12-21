@@ -4,6 +4,9 @@
 Мое портфолио демонстрирует практические навыки тестирования через подробные отчеты о багах, тест-кейсы, чеклисты и планы. Кроме того, здесь вы можете удостовериться в моих навыках тестирования API и автоматизации данного процесса с Postman. Портфолио включает примеры функционального, нефункционального, API и исследовательского тестирования для веб и мобильных приложений, отражая глубокое понимание жизненного цикла разработки программного обеспечения (SDLC) и методологий Agile./
 <br/>My portfolio showcasing practical testing skills through detailed bug reports, test cases, checklists and test plans. Besides, it demonstrates proficiency in test automation and API testing with Postman. Portfolio includes examples of functional, non-functional, API and exploratory testing across web and mobile applications, reflecting a strong understanding of SDLC and Agile methodologies.
 
+### Моё резюме / My CV
+[Ссылка на резюме / Link to CV](https://docs.google.com/document/d/1wpWtV9xenGLb1AdNbpKQ_5b3C25J3o0B/edit)
+
 ### Вы можете связаться со мной посредством.../You can connect with me through... <img src="https://cdn-icons-gif.flaticon.com/6172/6172532.gif" title="wave" width="40" height="40"/>
  <div id="badges">
     <a href="https://t.me/IMV2279" target="_blank">
